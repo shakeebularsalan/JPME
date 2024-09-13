@@ -1,0 +1,15 @@
+{
+    "first_name" : "Seth",
+    "last_name" : "Curry",
+    "contract_fname" : "Stephen",
+    "contract_lname" : "Curry",
+    "address" : "321 rue",
+    "postal_code" : "31000",
+    "city" : "Toulouse",
+    "email" : "abcd@gmail.com",
+    "phone_number": "01234567890",
+    "delivery_point" : "9876532100000",
+    "address_consumption" : "123 rue",
+    "consumption_postal_code" : "75001",
+    "consumption_city" : "Paris"
+}
